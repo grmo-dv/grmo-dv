@@ -1,39 +1,138 @@
+# 🛠️ Guilherme Revoredo
 
-<table>
-  <tr>
-    <td>
-      <h3 align="center">DevOps Enginner in process... 🧠</h3>
-      <h3 align="center">DevOps Analyst 👨‍💻</h3>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dwMGVuMjY1MDN1dTlmM2pudnltcDNnMzlwbnN4ZWVzdWQ4NWR6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MAcqfBGahLB7WYGeBZ/giphy.gif" height="300">
-    </td>
-  </tr>
-</table>
+**`DevOps Enginner`**
+
+Atuo na área de DevOps, estudando para atuar na mesma com excelência!
 
 
-<!-- Barra Animada
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=81F7F3&section=header">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=04B4AE&size=30&&v&width=1000&lines=Opa,+tudo+bem?+Me+chamo+Guilherme+Revoredo+!!!!"> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dwMGVuMjY1MDN1dTlmM2pudnltcDNnMzlwbnN4ZWVzdWQ4NWR6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MAcqfBGahLB7WYGeBZ/giphy.gif" height="300" align="right">
+---
 
-### DevOps Enginner in process... :brain:
-### DevOps Analyst :man_technologist:
- -->
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="GCP"
+    title="GCP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure"
+    title="Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bitbucket"
+    title="Bitbucket" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitLab"
+    title="GitLab" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kubernetes"
+    title="Kubernetes" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Terraform"
+    title="Terraform" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Ansible"
+    title="Ansible" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prometheus"
+    title="Prometheus" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Grafana"
+    title="Grafana" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" 
+/>
 
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=grmo-dv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+    align="right" 
+    alt="GIF"
+    height="300" 
+    style="padding-left: 10px; margin-top: -200px; margin-left: -20px;" 
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
+/>
 
 <!--
-**grmo-dv/grmo-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grmo-dv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 -->
+</p>
