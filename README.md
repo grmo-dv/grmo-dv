@@ -122,7 +122,7 @@ Atuo na área de DevOps, estudando para atuar na mesma com excelência!
 <img 
     align="right" 
     alt="GIF"
-    height="400px" 
+    height="300px" 
     style="padding-left:10px; margin-top:-60px;" 
     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
 />
