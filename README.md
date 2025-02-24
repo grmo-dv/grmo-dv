@@ -3,8 +3,8 @@
 
 ### Guilherme Revoredo :coffee:
 ### 03/2001 :tada:
-### DevOps Professional in process... :brain:
-### Network Administrator at A3TECH :man_technologist:
+### DevOps Enginner in process... :brain:
+### DevOps Analyst :man_technologist:
 
 <div>
   
