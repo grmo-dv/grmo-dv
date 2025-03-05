@@ -2,8 +2,6 @@
 
 **`DevOps Enginner`**
 
-Atuo na área de DevOps, estudando para atuar na mesma com excelência!
-
 
 ---
 
